@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3223b090-29b4-4491-8ebc-87aba8d9982b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xzj1mUicdiBXlRU9Wvq98CAkRE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/envs/Pyside2/Lib/site-packages/python2.7libs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MeiHoudiniTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OutsideHoudini" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OutsideHoudini/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3223b090-29b4-4491-8ebc-87aba8d9982b" name="Default Changelist" comment="" />
+      <created>1582055604704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582055604704</updated>
+      <workItem from="1582055608124" duration="548000" />
+      <workItem from="1582108675019" duration="25712000" />
+      <workItem from="1582190204118" duration="23269000" />
+      <workItem from="1582229688823" duration="205000" />
+      <workItem from="1582275212998" duration="18546000" />
+      <workItem from="1582316676062" duration="200000" />
+      <workItem from="1582316882566" duration="226000" />
+      <workItem from="1582317219364" duration="70000" />
+      <workItem from="1582323135846" duration="64000" />
+      <workItem from="1582323315431" duration="331000" />
+      <workItem from="1582360900250" duration="6070000" />
+      <workItem from="1582545239378" duration="10250000" />
+      <workItem from="1582626639146" duration="12228000" />
+      <workItem from="1582665149274" duration="677000" />
+      <workItem from="1582717181515" duration="9028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="563" key="FileChooserDialogImpl" timestamp="1582361353395">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1118" y="327" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1582284342983" />
+    <state x="495" y="563" key="FileChooserDialogImpl/0.0.2498.1440@0.0.2498.1440" timestamp="1582361353395" />
+    <state width="1818" height="268" key="GridCell.Tab.0.bottom" timestamp="1582323645587">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1527" height="177" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1582311710185" />
+    <state width="1818" height="268" key="GridCell.Tab.0.bottom/0.0.2498.1440@0.0.2498.1440" timestamp="1582323645587" />
+    <state width="1818" height="268" key="GridCell.Tab.0.center" timestamp="1582323645586">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1527" height="177" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1582311710184" />
+    <state width="1818" height="268" key="GridCell.Tab.0.center/0.0.2498.1440@0.0.2498.1440" timestamp="1582323645586" />
+    <state width="1818" height="268" key="GridCell.Tab.0.left" timestamp="1582323645586">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1527" height="177" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1582311710184" />
+    <state width="1818" height="268" key="GridCell.Tab.0.left/0.0.2498.1440@0.0.2498.1440" timestamp="1582323645586" />
+    <state width="1818" height="268" key="GridCell.Tab.0.right" timestamp="1582323645587">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1527" height="177" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1582311710184" />
+    <state width="1818" height="268" key="GridCell.Tab.0.right/0.0.2498.1440@0.0.2498.1440" timestamp="1582323645587" />
+    <state x="942" y="231" key="SettingsEditor" timestamp="1582361357935">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="669" y="240" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1582284438567" />
+    <state x="942" y="231" key="SettingsEditor/0.0.2498.1440@0.0.2498.1440" timestamp="1582361357935" />
+    <state x="776" y="489" key="com.intellij.ide.util.TipDialog" timestamp="1582717186552">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="634" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1582545240314" />
+    <state x="776" y="489" key="com.intellij.ide.util.TipDialog/0.0.2498.1440@0.0.2498.1440" timestamp="1582717186552" />
+    <state x="441" y="227" width="1396" height="860" key="dock-window-1" timestamp="1582727244690">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="441" y="227" width="1396" height="860" key="dock-window-1/0.0.1858.1080@0.0.1858.1080" timestamp="1582727244690" />
+    <state x="1109" y="364" width="1396" height="860" key="dock-window-1/0.0.2498.1440@0.0.2498.1440" timestamp="1582722695599" />
+    <state x="649" y="249" key="refactoring.ChangeSignatureDialog" timestamp="1582561740687">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="649" y="249" key="refactoring.ChangeSignatureDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1582561740687" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1582309780294">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1582309780294" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MeiHoudiniTools$test.coverage" NAME="test Coverage Results" MODIFIED="1582323580590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OutsideHoudini" />
+  </component>
+</project>
