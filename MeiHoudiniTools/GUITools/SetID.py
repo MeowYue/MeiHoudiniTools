@@ -154,7 +154,7 @@ v@id = {{{0},{1},{2}}};
 
     def get_new_random_id_color(self):
         IDColorGroup = ['#ff8000', '#ffff00', '#80ff00', '#00ff80', '#00ffff', '#0080ff', '#0000ff',
-                        '#8000ff', '#ff00ff', '#ff0000', '#00ff00', '80ff80','ff80ff']
+                        '#8000ff', '#ff00ff', '#ff0000', '#00ff00', '#80ff80','#ff80ff']
         existedColor = FindNode.find_global_attribs_with_prefix(self.finalAttribCreate, "id")
         color_to_select = choice([color for color in IDColorGroup if not color in existedColor])
         this_color = QtGui.QColor(color_to_select)
